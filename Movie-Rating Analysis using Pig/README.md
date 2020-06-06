@@ -1,6 +1,6 @@
 # Movie-Rating Analysis using Pig
 
-Dataset det*ails:
+Dataset details:
 1) movie_id
 2) Title of Movie
 3) Release year
